@@ -23,7 +23,7 @@ IMAGE_DIR = app.static_folder
 
 #######################
 ### Helper funtions ###
-######################
+#######################
 def init_game():
 	# initialize a new deck (a list of filenames)
 	image_names = os.listdir(IMAGE_DIR)

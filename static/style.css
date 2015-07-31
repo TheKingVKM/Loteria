@@ -1,0 +1,16 @@
+body{
+      background:skyblue;
+    }
+    .jumbotron{
+      background:lightblue;
+    }
+    .header{
+      margin-bottom: 40px;
+      margin-top: 40px;
+    }
+    .botones{
+      margin-top:80%;
+    }
+    .im{
+      /*height:400px;*/
+    }
